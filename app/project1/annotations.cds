@@ -1,0 +1,1 @@
+using insrv as service from '../../srv/service';
